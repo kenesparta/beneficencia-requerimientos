@@ -1,0 +1,1 @@
+Dame los casos de usos detallados para el sistema: "Sistema de Gestión de Servicios funerarios" si es que no tienes alguna cosa segura, preguntame para poder responderte y asi poder diseñarlo juntos. Quiero que todo lo que me mandas lo pusieras en un archivo Markdown para descargar.
