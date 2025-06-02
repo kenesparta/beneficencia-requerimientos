@@ -28,3 +28,9 @@
 12. Sistema de Gestión de proyectos
 13. Sistema de gestión de beneficiarios para los servicios de protección social
 14. generalidades
+
+
+- Perfil del ingeniero.
+- Tecnologias que se van a autilizar.
+- Monto con el cual se va ha pretender consursar.
+- Gestionar accesos con sistemas de terceros
